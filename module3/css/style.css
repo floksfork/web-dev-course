@@ -1,0 +1,19 @@
+
+.menu-item {
+	background-color: #DCDAB3;
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 15px;
+}
+
+#header-nav {
+    border-radius: 0;
+}
+
+.title {
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.container-menu {
+	padding: 15px;
+}
